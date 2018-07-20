@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.unleashedwheels.com/");
+header("Location: https://daqe.us/track/");
 die();
 ?>
